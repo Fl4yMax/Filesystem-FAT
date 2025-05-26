@@ -1,4 +1,4 @@
-### FAT-16 FS implementation, no image provided, only source code
+### FAT filesystem homework implementation, no image provided, only source code
 
 ## COMPILE
  - make
