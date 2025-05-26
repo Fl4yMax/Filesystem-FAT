@@ -5,6 +5,3 @@
 
 ## RUN
  - ./fat
-
-## INFO
- - There are still some small miscalculations, it was a school hw
